@@ -1,0 +1,148 @@
+2024-08-12 21:34:53,939 - CoverFoxTest -INFO - Launching the browser
+2024-08-12 21:35:09,212 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-12 21:37:43,500 - CoverFoxTest -INFO - Launching the browser
+2024-08-12 21:37:51,603 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-12 21:37:56,241 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-12 21:37:58,423 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-12 21:38:42,220 - CoverFoxTest -INFO - Launching the browser
+2024-08-12 21:38:49,612 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-12 21:38:54,191 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-12 21:38:56,520 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-12 21:38:57,817 - CoverFoxTest -INFO - CLicking on the next btn
+2024-08-12 21:38:59,933 - CoverFoxTest -INFO - Entring the pincode
+2024-08-12 21:39:01,174 - CoverFoxTest -INFO - Entering the mobile number
+2024-08-12 21:39:01,384 - CoverFoxTest -INFO - Click on continue btn
+2024-08-12 21:39:03,526 - CoverFoxTest -INFO - Validating the no of banners on result page
+2024-08-12 21:39:03,526 - CoverFoxTest -WARN - Number of banners shouldbe equl to the text dispalyed
+2024-08-12 21:39:04,260 - CoverFoxTest -INFO - Validating the presence of sort dropdown on result page
+2024-08-12 21:39:04,260 - CoverFoxTest -WARN - Sort dropdown shouldbe displayed on the result page
+2024-08-12 21:39:04,509 - CoverFoxTest -INFO - Closing the browser..
+2024-08-12 22:07:05,728 - CoverFoxTest -INFO - Launching the browser
+2024-08-12 22:07:11,814 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-12 22:07:16,215 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-12 22:07:18,262 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-12 22:07:19,011 - CoverFoxTest -INFO - CLicking on the next btn
+2024-08-12 22:07:21,064 - CoverFoxTest -INFO - Entring the pincode
+2024-08-12 22:07:21,151 - CoverFoxTest -INFO - Entering the mobile number
+2024-08-12 22:07:21,238 - CoverFoxTest -INFO - Click on continue btn
+2024-08-12 22:07:23,302 - CoverFoxTest -INFO - Validating the no of banners on result page
+2024-08-12 22:07:23,303 - CoverFoxTest -WARN - Number of banners shouldbe equl to the text dispalyed
+2024-08-12 22:07:23,472 - CoverFoxTest -INFO - Validating the presence of sort dropdown on result page
+2024-08-12 22:07:23,472 - CoverFoxTest -WARN - Sort dropdown shouldbe displayed on the result page
+2024-08-12 22:07:23,613 - CoverFoxTest -INFO - Closing the browser..
+2024-08-12 22:08:27,705 - CoverFoxTest -INFO - Launching the browser
+2024-08-12 22:08:35,451 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-12 22:08:43,369 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-12 22:08:45,416 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-12 22:08:46,026 - CoverFoxTest -INFO - CLicking on the next btn
+2024-08-12 22:08:48,073 - CoverFoxTest -INFO - Entring the pincode
+2024-08-12 22:08:48,165 - CoverFoxTest -INFO - Entering the mobile number
+2024-08-12 22:08:48,252 - CoverFoxTest -INFO - Click on continue btn
+2024-08-12 22:08:50,326 - CoverFoxTest -INFO - Validating the no of banners on result page
+2024-08-12 22:08:50,327 - CoverFoxTest -WARN - Number of banners shouldbe equl to the text dispalyed
+2024-08-12 22:08:50,539 - CoverFoxTest -INFO - Validating the presence of sort dropdown on result page
+2024-08-12 22:08:50,540 - CoverFoxTest -WARN - Sort dropdown shouldbe displayed on the result page
+2024-08-12 22:08:50,689 - CoverFoxTest -INFO - Closing the browser..
+2024-08-12 22:11:15,378 - CoverFoxTest -INFO - Launching the browser
+2024-08-12 22:11:21,496 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-12 22:11:25,895 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-12 22:11:27,938 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-12 22:11:28,510 - CoverFoxTest -INFO - CLicking on the next btn
+2024-08-12 22:11:30,563 - CoverFoxTest -INFO - Entring the pincode
+2024-08-12 22:11:30,651 - CoverFoxTest -INFO - Entering the mobile number
+2024-08-12 22:11:30,757 - CoverFoxTest -INFO - Click on continue btn
+2024-08-12 22:11:32,828 - CoverFoxTest -INFO - Validating the no of banners on result page
+2024-08-12 22:11:32,829 - CoverFoxTest -WARN - Number of banners shouldbe equl to the text dispalyed
+2024-08-12 22:11:33,007 - CoverFoxTest -INFO - Validating the presence of sort dropdown on result page
+2024-08-12 22:11:33,008 - CoverFoxTest -WARN - Sort dropdown shouldbe displayed on the result page
+2024-08-12 22:11:33,160 - CoverFoxTest -INFO - Closing the browser..
+2024-08-12 22:15:51,724 - CoverFoxTest -INFO - Launching the browser
+2024-08-12 22:15:57,582 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-12 22:16:02,040 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-12 22:16:04,092 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-12 22:16:04,711 - CoverFoxTest -INFO - CLicking on the next btn
+2024-08-12 22:16:06,762 - CoverFoxTest -INFO - Entring the pincode
+2024-08-12 22:16:06,849 - CoverFoxTest -INFO - Entering the mobile number
+2024-08-12 22:16:06,933 - CoverFoxTest -INFO - Click on continue btn
+2024-08-12 22:16:08,996 - CoverFoxTest -INFO - Validating the no of banners on result page
+2024-08-12 22:16:08,997 - CoverFoxTest -WARN - Number of banners shouldbe equl to the text dispalyed
+2024-08-12 22:16:09,182 - CoverFoxTest -INFO - Validating the presence of sort dropdown on result page
+2024-08-12 22:16:09,183 - CoverFoxTest -WARN - Sort dropdown shouldbe displayed on the result page
+2024-08-12 22:16:09,313 - CoverFoxTest -INFO - Closing the browser..
+2024-08-13 07:01:58,321 - CoverFoxTest -INFO - Launching the browser
+2024-08-13 07:02:05,244 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-13 07:02:09,723 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-13 07:02:11,814 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-13 07:02:12,794 - CoverFoxTest -INFO - CLicking on the next btn
+2024-08-13 07:02:14,868 - CoverFoxTest -INFO - Entring the pincode
+2024-08-13 07:02:15,012 - CoverFoxTest -INFO - Entering the mobile number
+2024-08-13 07:02:15,131 - CoverFoxTest -INFO - Click on continue btn
+2024-08-13 07:02:17,237 - CoverFoxTest -INFO - Validating the no of banners on result page
+2024-08-13 07:02:17,237 - CoverFoxTest -WARN - Number of banners shouldbe equl to the text dispalyed
+2024-08-13 07:02:17,501 - CoverFoxTest -INFO - Validating the presence of sort dropdown on result page
+2024-08-13 07:02:17,501 - CoverFoxTest -WARN - Sort dropdown shouldbe displayed on the result page
+2024-08-13 07:02:17,730 - CoverFoxTest -INFO - Closing the browser..
+2024-08-19 08:05:22,599 - CoverFoxTest -INFO - Launching the browser
+2024-08-19 08:06:15,911 - CoverFoxTest -INFO - Launching the browser
+2024-08-19 08:06:23,330 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-19 08:06:27,678 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-19 08:06:29,734 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-19 08:06:30,417 - CoverFoxTest -INFO - CLicking on the next btn
+2024-08-19 08:06:32,466 - CoverFoxTest -INFO - Entring the pincode
+2024-08-19 08:06:59,410 - CoverFoxTest -INFO - Launching the browser
+2024-08-19 08:07:05,882 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-19 08:07:10,214 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-19 08:07:12,264 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-19 10:34:40,383 - CoverFoxTest -INFO - Launching the browser
+2024-08-19 10:34:50,878 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-19 10:34:55,457 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-19 10:36:08,833 - CoverFoxTest -INFO - Launching the browser
+2024-08-19 10:36:15,686 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-19 10:36:20,210 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-19 10:36:22,294 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-19 10:36:23,327 - CoverFoxTest -INFO - CLicking on the next btn
+2024-08-19 10:36:25,404 - CoverFoxTest -INFO - Entring the pincode
+2024-08-19 10:36:25,557 - CoverFoxTest -INFO - Entering the mobile number
+2024-08-19 10:36:25,700 - CoverFoxTest -INFO - Click on continue btn
+2024-08-19 10:36:27,809 - CoverFoxTest -INFO - Validating the no of banners on result page
+2024-08-19 10:36:27,810 - CoverFoxTest -WARN - Number of banners shouldbe equl to the text dispalyed
+2024-08-19 10:36:28,191 - CoverFoxTest -INFO - Validating the presence of sort dropdown on result page
+2024-08-19 10:36:28,192 - CoverFoxTest -WARN - Sort dropdown shouldbe displayed on the result page
+2024-08-19 10:36:28,395 - CoverFoxTest -INFO - Closing the browser..
+2024-08-19 11:16:25,345 - CoverFoxTest -INFO - Launching the browser
+2024-08-19 11:16:32,396 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-19 11:16:36,986 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-19 11:18:21,522 - CoverFoxTest -INFO - Launching the browser
+2024-08-19 11:18:30,804 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-19 11:18:35,337 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-19 11:18:37,430 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-19 11:18:38,402 - CoverFoxTest -INFO - CLicking on the next btn
+2024-08-19 11:18:40,491 - CoverFoxTest -INFO - Entring the pincode
+2024-08-19 11:18:40,625 - CoverFoxTest -INFO - Entering the mobile number
+2024-08-19 11:18:40,757 - CoverFoxTest -INFO - Click on continue btn
+2024-08-19 11:18:42,860 - CoverFoxTest -INFO - Validating the no of banners on result page
+2024-08-19 11:18:42,860 - CoverFoxTest -WARN - Number of banners shouldbe equl to the text dispalyed
+2024-08-19 11:18:43,147 - CoverFoxTest -INFO - Validating the presence of sort dropdown on result page
+2024-08-19 11:18:43,147 - CoverFoxTest -WARN - Sort dropdown shouldbe displayed on the result page
+2024-08-19 11:18:43,351 - CoverFoxTest -INFO - Closing the browser..
+2024-08-20 07:03:48,190 - CoverFoxTest -INFO - Launching the browser
+2024-08-20 07:03:59,346 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-20 07:19:23,243 - CoverFoxTest -INFO - Launching the browser
+2024-08-20 07:19:34,757 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-20 07:19:39,804 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-20 07:23:08,805 - CoverFoxTest -INFO - Launching the browser
+2024-08-20 07:23:16,602 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-20 07:23:21,011 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-20 07:26:06,229 - CoverFoxTest -INFO - Launching the browser
+2024-08-20 07:26:12,048 - CoverFoxTest -INFO - Clicking on get started btn
+2024-08-20 07:26:16,382 - CoverFoxTest -INFO - Clicking on the next btn
+2024-08-20 07:26:18,456 - CoverFoxTest -INFO - Selecting age from dropdown
+2024-08-20 07:26:19,053 - CoverFoxTest -INFO - CLicking on the next btn
+2024-08-20 07:26:21,098 - CoverFoxTest -INFO - Entring the pincode
+2024-08-20 07:26:21,177 - CoverFoxTest -INFO - Entering the mobile number
+2024-08-20 07:26:21,248 - CoverFoxTest -INFO - Click on continue btn
+2024-08-20 07:26:23,313 - CoverFoxTest -INFO - Validating the no of banners on result page
+2024-08-20 07:26:23,314 - CoverFoxTest -WARN - Number of banners shouldbe equl to the text dispalyed
+2024-08-20 07:26:23,480 - CoverFoxTest -INFO - Validating the presence of sort dropdown on result page
+2024-08-20 07:26:23,480 - CoverFoxTest -WARN - Sort dropdown shouldbe displayed on the result page
+2024-08-20 07:26:23,627 - CoverFoxTest -INFO - Closing the browser..

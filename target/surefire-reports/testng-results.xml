@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launchig the browser]]>
+    </line>
+    <line>
+      <![CDATA[Click on get started]]>
+    </line>
+    <line>
+      <![CDATA[Click on next button]]>
+    </line>
+    <line>
+      <![CDATA[Select age]]>
+    </line>
+    <line>
+      <![CDATA[Click on next button]]>
+    </line>
+    <line>
+      <![CDATA[enter pincode]]>
+    </line>
+    <line>
+      <![CDATA[enter mobileNo]]>
+    </line>
+    <line>
+      <![CDATA[Click on Continue Btn]]>
+    </line>
+    <line>
+      <![CDATA[TC validateBanners exceution is started]]>
+    </line>
+    <line>
+      <![CDATA[Validating the no of banners on result page]]>
+    </line>
+    <line>
+      <![CDATA[Taking Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[TcvalidateBannersis successful or passed]]>
+    </line>
+    <line>
+      <![CDATA[TC validatePresenceOfSortDropdown exceution is started]]>
+    </line>
+    <line>
+      <![CDATA[Validating the presence of sort dropdown on result page]]>
+    </line>
+    <line>
+      <![CDATA[Taking Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[TcvalidatePresenceOfSortDropdownis successful or passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-20T07:26:06 IST" name="Suite" finished-at="2024-08-20T07:26:23 IST" duration-ms="17461">
+    <groups>
+    </groups>
+    <test started-at="2024-08-20T07:26:06 IST" name="Test" finished-at="2024-08-20T07:26:23 IST" duration-ms="17461">
+      <class name="CoverFoxTest.TestClass">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:CoverFoxTest.TestClass@2a4fb17b]" started-at="2024-08-20T07:26:06 IST" name="openBrowser" finished-at="2024-08-20T07:26:09 IST" duration-ms="2844" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launchig the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:CoverFoxTest.TestClass@2a4fb17b]" started-at="2024-08-20T07:26:09 IST" name="preConditions" finished-at="2024-08-20T07:26:23 IST" duration-ms="14269" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on get started]]>
+            </line>
+            <line>
+              <![CDATA[Click on next button]]>
+            </line>
+            <line>
+              <![CDATA[Select age]]>
+            </line>
+            <line>
+              <![CDATA[Click on next button]]>
+            </line>
+            <line>
+              <![CDATA[enter pincode]]>
+            </line>
+            <line>
+              <![CDATA[enter mobileNo]]>
+            </line>
+            <line>
+              <![CDATA[Click on Continue Btn]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preConditions -->
+        <test-method signature="validateBanners()[pri:0, instance:CoverFoxTest.TestClass@2a4fb17b]" started-at="2024-08-20T07:26:23 IST" name="validateBanners" finished-at="2024-08-20T07:26:23 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC validateBanners exceution is started]]>
+            </line>
+            <line>
+              <![CDATA[Validating the no of banners on result page]]>
+            </line>
+            <line>
+              <![CDATA[Taking Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[TcvalidateBannersis successful or passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateBanners -->
+        <test-method signature="validatePresenceOfSortDropdown()[pri:0, instance:CoverFoxTest.TestClass@2a4fb17b]" started-at="2024-08-20T07:26:23 IST" name="validatePresenceOfSortDropdown" finished-at="2024-08-20T07:26:23 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC validatePresenceOfSortDropdown exceution is started]]>
+            </line>
+            <line>
+              <![CDATA[Validating the presence of sort dropdown on result page]]>
+            </line>
+            <line>
+              <![CDATA[Taking Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[TcvalidatePresenceOfSortDropdownis successful or passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatePresenceOfSortDropdown -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:CoverFoxTest.TestClass@2a4fb17b]" started-at="2024-08-20T07:26:23 IST" name="closeTheBrowser" finished-at="2024-08-20T07:26:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- CoverFoxTest.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
